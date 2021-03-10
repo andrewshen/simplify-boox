@@ -1,0 +1,154 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  letter-spacing: 0 !important;
+  font-size: 14px !important;
+}
+
+.font-format-normal {
+  font-size: 14px !important;
+}
+
+.header-logo {
+  display: none !important;
+}
+
+.push-container .push-menu .push-item {
+  padding: 8px 0 8px 20px !important;
+}
+
+.push-container .push-menu .push-item > span {
+  font-size: 14px !important;
+}
+
+.push-container .push-menu .active-route {
+  font-weight: 700 !important;
+  background: none !important;
+}
+
+.el-table th > .cell {
+  font-weight: 700 !important;
+}
+
+.el-table .cell {
+  font-size: 14px !important;
+  letter-spacing: 0 !important;
+}
+
+.header-container {
+  box-shadow: none !important;
+}
+
+.push-container .push-menu .active-route {
+  font-weight: 700 !important;
+}
+
+.gb-table .gb-table-main .list-cover img {
+  display: none !important;
+}
+
+.font-format-normal {
+  letter-spacing: 0 !important;
+}
+
+.el-pager {
+  box-shadow: none !important;
+}
+
+.push-file-container .push-file-header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0 !important;
+}
+
+.push-file-container .push-file-header .push-file-upload {
+  max-width: none !important;
+  width: 100%;
+}
+
+.vueDropzone-main #customdropzone {
+  /* background: #f7f8f9 !important; */
+}
+
+.vueDropzone-main #customdropzone .dropzone-custom-content > span {
+  font-weight: 700 !important;
+}
+
+.list-container {
+  padding: 0 !important;
+}
+
+.header-msg {
+  display: none !important;
+}
+
+.el-popover__reference.gb-popover-value:first-of-type {
+  display: none !important;
+}
+
+.gb-table-container {
+  border-radius: 0 !important;
+}
+
+.push-file-container .push-file-header .push-file-header-right {
+  width: 100%;
+  padding: 8px 0;
+  background: white !important;
+}
+
+.push-file-header-left {
+  position: absolute;
+  top: 8px;
+}
+
+.search-container {
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.el-input > .el-input__inner {
+  letter-spacing: 0 !important;
+}
+
+.push-file-container .push-file-header .push-file-header-right .icon-item {
+  margin-left: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.el-pagination__jump,
+.gb-table-container {
+  box-shadow: none !important;
+}
+
+.el-menu--horizontal > .el-menu-item.is-active:before {
+  display: none;
+}
+
+.el-pager li,
+.el-pagination .btn-next,
+.el-pagination .btn-prev {
+  width: 28px;
+  height: 28px;
+  background: #fff !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  font-size: 12px;
+}
+
+.el-input__prefix {
+  left: 16px !important;
+}
+
+.el-input--prefix .el-input__inner {
+  padding-left: 48px !important;
+}
+
+.el-pagination__jump {
+  letter-spacing: 0 !important;
+}
