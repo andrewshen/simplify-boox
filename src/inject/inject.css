@@ -72,10 +72,6 @@ body {
   width: 100%;
 }
 
-.vueDropzone-main #customdropzone {
-  /* background: #f7f8f9 !important; */
-}
-
 .vueDropzone-main #customdropzone .dropzone-custom-content > span {
   font-weight: 700 !important;
 }
@@ -105,6 +101,8 @@ body {
 .push-file-header-left {
   position: absolute;
   top: 8px;
+  width: fit-content;
+  min-width: 0 !important;
 }
 
 .search-container {
@@ -151,4 +149,13 @@ body {
 
 .el-pagination__jump {
   letter-spacing: 0 !important;
+}
+
+.font-format-big {
+  font-size: 14px !important;
+  letter-spacing: 0 !important;
+}
+
+.vueDropzone-main #customdropzone {
+  box-shadow: none !important;
 }
