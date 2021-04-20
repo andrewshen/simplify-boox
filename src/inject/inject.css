@@ -158,4 +158,5 @@ body {
 
 .vueDropzone-main #customdropzone {
   box-shadow: none !important;
+  padding: 40px 0;
 }
