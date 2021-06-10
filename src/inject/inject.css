@@ -156,3 +156,7 @@ body {
   box-shadow: none !important;
   padding: 40px 0;
 }
+
+.push-website-container .push-website-header .push-website-header-left {
+  display: none !important;
+}
